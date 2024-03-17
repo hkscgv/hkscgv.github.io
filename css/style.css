@@ -268,7 +268,7 @@ button.btn { margin-right: -1px; }
 /*--------------------------------
 4.7 Call to actions 
 ----------------------------------*/
-.cta-section { background-color: #d96763; padding-top: 30px; padding-bottom: 10px; text-align: center; color: #fff; font-size: 32px; }
+.cta-section { background-color: #d96763; padding-top: 10px; padding-bottom: 10px; text-align: center; color: #fff; font-size: 32px; }
 .cta-section h1 { color: #fff; font-size: 28px; }
 .cta-block { }
 .cta-text { }
